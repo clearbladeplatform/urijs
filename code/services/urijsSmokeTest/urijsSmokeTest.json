@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,urijs",
+    "logging_enabled": "false",
+    "name": "urijsSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "urijsSmokeTest.js"
+}
